@@ -1,16 +1,18 @@
-## Hi there 👋
+# Projeto HTML 🌐
 
-<!--
-**giovannadexter/giovannadexter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Este repositório contém um projeto desenvolvido em HTML e CSS. Este é um projeto de currículo desenvolvido com HTML e CSS como parte da disciplina de front-end.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Como Executar o Projeto
+
+**Clone o repositório:**
+
+   ```bash
+   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   cd nome-do-repositorio
+    ```
+
+## Abra o arquivo `index.html` em seu navegador:
+
+Você pode clicar duas vezes no arquivo `index.html` ou arrastá-lo para uma janela do navegador para visualizar a página.
+
