@@ -10,7 +10,7 @@ Este repositório contém um projeto desenvolvido em HTML e CSS. Este é um proj
    ```bash
    git clone https://github.com/seu-usuario/nome-do-repositorio.git
    cd nome-do-repositorio
-    ```
+   ```
 
 ## Abra o arquivo `index.html` em seu navegador:
 
